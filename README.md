@@ -1,3 +1,4 @@
+Not using GitHub? Find me on [LinkedIn](https://www.linkedin.com/in/cuong9/)!
 # graphql-nodejs
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg)](#contributors)
@@ -86,4 +87,3 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 ## License
 
 MIT © [cuongw](https://github.com/cuongw)
-
